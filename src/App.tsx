@@ -111,7 +111,7 @@ export default function App() {
             </Text>
             {/* <NativeSpeech/> */}
             <Button
-                title="Selecione uma imagem de sua galeria."
+                title="Selecione uma imagem da galeria."
                 onPress={pickImageGallery}
             />
             <Button
